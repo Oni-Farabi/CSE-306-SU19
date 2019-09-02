@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567439191 source:c:\users\lenovo\desktop\algo-lab exam\graph-project\main.cpp
+	<iostream>
+	<list>
+	<limits.h>
+
